@@ -24,8 +24,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-https://www.loom.com/share/71e7e9c948ca46faaa74b452055329c6?sid=b2492684-c693-4184-9f4e-f9b569d22fbe
+
 
 ## App Brainstorming (Step 4)
 Facebook Messenger:
