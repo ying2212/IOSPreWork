@@ -4,6 +4,14 @@
 Submitted by: Guan Ying Goh
 
 **Build Your Vibes** is an app that is a simple and interactive application designed to allow users to customize the background color with just a tap of a button.
+<div>
+    <a href="https://www.loom.com/share/71e7e9c948ca46faaa74b452055329c6">
+      <p>Simulator - iPhone 15 Pro - 13 January 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/71e7e9c948ca46faaa74b452055329c6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/71e7e9c948ca46faaa74b452055329c6-with-play.gif">
+    </a>
+  </div>
 
 Time spent: **1** hours spent in total
 
@@ -17,8 +25,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/71e7e9c948ca46faaa74b452055329c6?sid=b2492684-c693-4184-9f4e-f9b569d22fbe
 
 ## App Brainstorming (Step 4)
 Facebook Messenger:
