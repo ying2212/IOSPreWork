@@ -1,9 +1,9 @@
 # IOSPreWork
-# Prework - *YingBackGround*
+# Prework - *Build Your Vibes*
 
 Submitted by: Guan Ying Goh
 
-**YingBackGround** is an app that is a simple and interactive application designed to allow users to customize the background color with just a tap of a button.
+**Build Your Vibes** is an app that is a simple and interactive application designed to allow users to customize the background color with just a tap of a button.
 
 Time spent: **1** hours spent in total
 
