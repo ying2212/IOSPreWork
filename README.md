@@ -5,7 +5,7 @@ Submitted by: Guan Ying Goh
 
 **IOSPreWork** is an app that is a simple and interactive application designed to allow users to customize the background color with just a tap of a button.
 
-Time spent: **0.5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
