@@ -1,9 +1,9 @@
 # IOSPreWork
-# Prework - *Name of App Here*
+# Prework - *YingBackGround*
 
 Submitted by: Guan Ying Goh
 
-**IOSPreWork** is an app that is a simple and interactive application designed to allow users to customize the background color with just a tap of a button.
+**YingBackGround** is an app that is a simple and interactive application designed to allow users to customize the background color with just a tap of a button.
 
 Time spent: **1** hours spent in total
 
